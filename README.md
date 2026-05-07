@@ -17,4 +17,4 @@ Small businesses in Cape Town spend 3-4 hours per week on admin emails and meeti
 - **Responsible AI**: Added a disclaimer so users know to verify AI outputs
 - 
 ## Sample Prompt I used 
-"Task:Write a proffessional follow-up email to a client after a meeting . Context: The client is a small business owner in cape town . Format: 3-4 sentences , friendly but proffessional tone."
+"Task:Write a professional follow-up email to a client after a meeting . Context: The client is a small business owner in cape town . Format: 3-4 sentences , friendly but proffessional tone."
